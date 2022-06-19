@@ -11,4 +11,5 @@
   </tr>
 </table></p>
 
-Stats view appear 19.06.2022
+
+<p align="right">Stats view appear 19.06.2022</p>
