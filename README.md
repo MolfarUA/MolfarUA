@@ -1,1 +1,8 @@
-[![View](https://hits.dwyl.com/MolfarUA/stat.svg?style=flat-square)](http://hits.dwyl.com/MolfarUA)
+Welcome to my page
+
+<table>
+  <tr>
+    <td>Profile views</td>
+    <td><img src="https://profile-counter.glitch.me/MolfarUA/count.svg" alt="" /></td>
+  </tr>
+</table>
