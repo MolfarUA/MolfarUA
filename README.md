@@ -8,4 +8,6 @@ Welcome to my page <div id="header" align="center">
     <td><img src="https://profile-counter.glitch.me/MolfarUA/count.svg" alt="" /></td>
   </tr>
 </table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molfarua&layout=compact)](https://github.com/molfarua/github-readme-stats)
+
 Stats view appear 19.06.2022
