@@ -10,6 +10,3 @@
     <td><img src="https://profile-counter.glitch.me/MolfarUA/count.svg" alt="" width="150" /></td>
   </tr>
 </table></p>
-
-
-<p align="right">Stats view appear 19.06.2022</p>
